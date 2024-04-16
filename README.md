@@ -1,5 +1,3 @@
-# NeuralGauSim
-
 # Dual-channel Neural Gaussian Similarity
 
 ## full-graph 
