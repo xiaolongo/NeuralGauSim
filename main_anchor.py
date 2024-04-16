@@ -129,7 +129,7 @@ def test_attention(model, data):
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--dataset', type=str, default='Cora')
+    parser.add_argument('--dataset', type=str, default='Chameleon')
     parser.add_argument('--split_type', type=str, default='random')
     parser.add_argument('--device', type=int, default=0)
     parser.add_argument('--K', type=int, default=10)
